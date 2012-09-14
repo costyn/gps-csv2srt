@@ -5,5 +5,7 @@ Use Virtual Dub or Vobsub to embed subtitles in video. Set offset to the time in
 TODO/future features:
 * Offset as parameter
 * Use less Perl modules
+* Parsing spacenear.us/tracker strings
+* Detect or customizable CSV headers/collumns (maybe with payload document?)
 * Detect launch in data to make syncing video and subtitles easier. 
 * Figure out YouTube subtitle format so they work there too.
